@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1>Hi i'm CHINMAYBM </h1>
-<h2>something </h2>
+<h2></h2>
 **CHINMAYBM/CHINMAYBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
